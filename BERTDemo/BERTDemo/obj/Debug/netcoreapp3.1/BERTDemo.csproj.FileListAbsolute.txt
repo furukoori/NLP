@@ -1,0 +1,13 @@
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\bin\Debug\netcoreapp3.1\BERTDemo.exe
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\bin\Debug\netcoreapp3.1\BERTDemo.deps.json
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\bin\Debug\netcoreapp3.1\BERTDemo.runtimeconfig.json
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\bin\Debug\netcoreapp3.1\BERTDemo.runtimeconfig.dev.json
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\bin\Debug\netcoreapp3.1\BERTDemo.dll
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\bin\Debug\netcoreapp3.1\BERTDemo.pdb
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.csprojAssemblyReference.cache
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.AssemblyInfoInputs.cache
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.AssemblyInfo.cs
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.csproj.CoreCompileInputs.cache
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.dll
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.pdb
+C:\Users\kazuki.furukori\Desktop\BERTDemo\BERTDemo\obj\Debug\netcoreapp3.1\BERTDemo.genruntimeconfig.cache

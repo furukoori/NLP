@@ -1,0 +1,13 @@
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\bin\Debug\netcoreapp3.1\knapsack.exe
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\bin\Debug\netcoreapp3.1\knapsack.deps.json
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\bin\Debug\netcoreapp3.1\knapsack.runtimeconfig.json
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\bin\Debug\netcoreapp3.1\knapsack.runtimeconfig.dev.json
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\bin\Debug\netcoreapp3.1\knapsack.dll
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\bin\Debug\netcoreapp3.1\knapsack.pdb
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.csprojAssemblyReference.cache
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.AssemblyInfoInputs.cache
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.AssemblyInfo.cs
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.csproj.CoreCompileInputs.cache
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.dll
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.pdb
+C:\Users\kazuki.furukori\Desktop\BERTDemo\knapsack\knapsack\obj\Debug\netcoreapp3.1\knapsack.genruntimeconfig.cache
